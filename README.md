@@ -1,1 +1,0 @@
-Complete Django Course for django web development
