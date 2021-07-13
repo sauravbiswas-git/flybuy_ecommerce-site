@@ -1,4 +1,4 @@
-**flybuy** is a Complete django based web ecommerce project. Where i create super-admin by which admin add product and remove product.
+**flybuy** is a complete django based web ecommerce project. Where i create super-admin by which admin add product and remove product.
 client/user purches the product by *add to cart* feature.A client can signup with proper valid details on the *flybuy* site using 
 *Signup* feature.If any user can't fill the signup form or leave with blank so, then the singnup page shows 'Error' message to user(with out reloading the page again).
 After creating account, user redirect to flybuy base page. After choosing the right product user can easily increase cart quantity.
